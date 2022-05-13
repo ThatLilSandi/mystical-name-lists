@@ -1,0 +1,157 @@
+Ship Names
+	Prefix/Suffix System, Suffixes are a shared pool, prefix is determined by ship class. Up to two prefixes (male/female) per ship class
+	
+	Suffixes (assumed "of "-)
+		Copper, Pewter, Iron, Nickel, Tungsten, Zinc, Titanium, Cobalt, Silver, Platinum, Gold, Tin, Lead, Aluminum
+		
+	Prefixes
+		Corvette
+			Lord, Lady
+		Destroyer
+			Baron, Baroness
+		Cruiser
+			Count, Countess
+		Battleship
+			Duke, Duchess
+		Titan
+			King, Queen
+		Colossus
+			Prince, Princess
+		Juggernaut
+			Emperor, Empress
+		Science
+			Sire, Madame
+		Colonizer
+			Laird
+		Constructor
+			Sir, Madam
+		Transport
+			Thane
+		Military Station Small
+			Marquess, Marchioness
+		Ion Cannon
+			Marcher Lord, Marcher Lady
+
+Ship Classes
+	Named after minerals
+
+	Azurite
+	Adamite
+	Apatite
+	Boleite
+	Brookite
+	Celestite
+	Cryolite
+	Dolomite
+	Forsterite
+	Gahnite
+	Goethite
+	Howlite
+	Leucite
+	Painite
+	Pyrite
+	Selenite
+	Sphalerite
+	Thaumasite
+	Witherite
+	Zultanite
+
+Fleet Names
+	Referred to as "Robes"
+	
+	Initial Names are gemstones
+		Sapphire
+		Amethyst
+		Emerald
+		Ruby
+		Garnet
+		Topaz
+		Lapis Lazuli
+		Turquoise
+		Agate
+		Opal
+		Beryl
+		Obsidian
+		Jasper
+		
+	Sequential uses Ordinals
+	
+Army Names
+	Referred to as Levies
+	
+	Defensive
+		$O$ Guard Levy
+	Assault
+		$O$ Knight Levy
+	Slave
+		$O$ Yeomen Levy
+	Undead
+		$O$ Risen Levy
+	Clone
+		$O$ Twin Levy
+	Robotic
+		$O$ Soulless Knight Levy
+	Robotic Defense
+		$O$ Soulless Guard Levy
+	Psionic
+		$O$ Enlightened Levy
+	Xenomorph
+		$O$ Terror Levy
+	Gene Warrior
+		$O$ Imbued Levy
+	Occupation
+		$O$  Peacekeeping Levy
+	Robotic Occupation
+		$O$ Soulless Peacekeeping Levy
+	Primitive
+		$O$ Spear Levy
+	Industrial
+		$O$ Longbow Levy
+	Postatomic
+		$O$ Lancer Levy
+	
+Planet Names
+	Prefix is a type of stone
+		Granite
+		Basalt
+		Pumice
+		Scoria
+		Tuff
+		Chalk
+		Claystone
+		Flint
+		Marl
+		Marble
+		Skarn
+		Slate
+		
+	Suffix is a type of fiefdom
+		Barony
+		County
+		Duchy
+		Earldom
+		March
+		Manor
+		
+Character Names
+	Prefix - Preposition - Suffix
+		Prepositions depend on the type of prefix
+	
+	Prefix
+		Nouns
+			["Eyes", "Friends", "Sun", "Ruler", "Hand", "Fear", "Dawn", "Eventide", "Scent", "Trouble", "Grace"]
+		Verbs
+			[ "Looks", "Thinks", "Strikes", "Hides", "Swims", "Moves", "Shimmers", "Smells", "Fetches", "Has", "Fears", "Brings", "Holds", "Summons", "Fights", "Defends", "Drift", "Laughs", "Pursues"]
+		Adjective
+			["Smooth", "Rough", "Kind", "Humble", "Graceful", "Persistant", "Lost"]
+	
+	Preposition
+		For Nouns
+			["of", "in", "with", "above", "before", "from"]
+		For Verbs
+			["to", "through", "with", "after", "by"]
+		For Adjective
+			["as", "like", "beside", "toward", "without"]
+	
+	Suffixes
+		["Gold", "the Dawn", "Darkness", "the End", "Foundations", "Beginning", "Silver", "Kings", "Queens", "the Found", "Stone", "Gems", "the Prepared", "those who Seek", "all who Find", "the Flame"]

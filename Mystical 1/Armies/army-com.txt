@@ -1,0 +1,45 @@
+﻿		defense_army = {
+			sequential_name = MYSTICAL1_xxGUARDLEVY_ORD
+		}
+		assault_army = {
+			sequential_name = MYSTICAL1_xxKNIGHTLEVY_ORD
+		}
+		slave_army = {
+			sequential_name = MYSTICAL1_xxYEOMENLEVY_ORD
+		}
+		undead_army = {
+			sequential_name = MYSTICAL1_xxRISENLEVY_ORD
+		}
+		clone_army = {
+			sequential_name = MYSTICAL1_xxTWINLEVY_ORD
+		}
+		robotic_army = {
+			sequential_name = MYSTICAL1_xxSOULLESSKNIGHTLEVY_ORD
+		}
+		robotic_defense_army = {
+			sequential_name = MYSTICAL1_xxSOULLESSGUARDLEVY_ORD
+		}
+		psionic_army = {
+			sequential_name = MYSTICAL1_xxENLIGHTENEDLEVY_ORD
+		}
+		xenomorph_army = {
+			sequential_name = MYSTICAL1_xxTERRORLEVY_ORD
+		}
+		gene_warrior_army = {
+			sequential_name = MYSTICAL1_xxIMBUEDLEVY_ORD
+		}
+		occupation_army = {
+			sequential_name = MYSTICAL1_xxPEACEKEEPINGLEVY_ORD
+		}
+		robotic_occupation_army = {
+			sequential_name = MYSTICAL1_xxMYSTICAL1_xxSOULLESSPEACEKEEPINGLEVY_ORD
+		}
+		primitive_army = {
+			sequential_name = MYSTICAL1_xxSPEARLEVY_ORD
+		}
+		industrial_army = {
+			sequential_name = MYSTICAL1_xxLONGBOWLEVY_ORD
+		}
+		postatomic_army = {
+			sequential_name = MYSTICAL1_xxLANCERLEVY_ORD
+		}
