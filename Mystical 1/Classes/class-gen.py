@@ -1,7 +1,10 @@
 loc = open("class-loc.txt", "w")
 com = open("class-com.txt", "w")
+minerals = open("minerals.txt", "r")
 
-classes = ["Azurite", "Adamite", "Apatite", "Boleite", "Brookite", "Celestite", "Cryolite", "Dolomite", "Forsterite", "Gahnite", "Goethite", "Howlite", "Leucite", "Painite", "Pyrite", "Selenite", "Sphalerite", "Thaumasite", "Witherite", "Zultanite"]
+classes = []
+for line in minerals:
+	classes.append(line.strip())
 
 com.write("\t\tgeneric = {\n")
 com.write("\t\t\t")
